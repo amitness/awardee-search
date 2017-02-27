@@ -1,5 +1,7 @@
 # awardee-search
 
+![Screenshot](screenshots/searchpage.png?raw=true)
+
 ### Backstory
 The project was developed on Open Data Day Hackathon 2017 to solve the challenge **Enabling Awardee Search** under the theme **Public Procurement**.
 
@@ -26,6 +28,15 @@ The project was developed on Open Data Day Hackathon 2017 to solve the challenge
 * [Python](https://www.python.org/)
 * [Flask](http://flask.pocoo.org/)
 * [Highcharts](http://www.highcharts.com/)
+
+### Features  
+![Screenshot](screenshots/company-details.png?raw=true)
+
+- Verified tickmark for companies that are registered with [Office of the Company Registrar](http://www.ocr.gov.np/index.php/en/).
+- Complete details
+- Rating
+- Winning vs Applied bids
+- Bidding streak
 
 ### Local Development
 * Clone this repository to your local machine.
