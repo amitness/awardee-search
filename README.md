@@ -65,7 +65,7 @@ deactivate
 ```
 
 ### Authors
-- [Amit Chaudhary](https://github.com/studenton)
+- [Amit Chaudhary](https://github.com/amitness)
 - [Satkar Dhakal](https://github.com/Satcar77)
 
 ### License
